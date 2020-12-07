@@ -1,4 +1,4 @@
- - 🔭 I’m currently working on a small Vue projects
- - 🌱 I’m currently looking into Vue
+ - 🔭 I’m currently working on learning PHP for work
+ - 🌱 I’m currently looking into React
  - 📫 How to reach me: edvinlin@gmail.com
 
