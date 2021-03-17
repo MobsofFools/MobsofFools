@@ -1,4 +1,4 @@
- - 🔭 I’m currently working on C# Algorithm skills, and general C# skills
- - 🌱 I’m currently looking back into .NET Core and LINQ
+ - 🔭 I’m currently working on -
+ - 🌱 I’m currently looking into Typescript React
  - 📫 How to reach me: edvinlin@gmail.com
 
