@@ -5,6 +5,8 @@
   2. Finish up Resume/Cover Letter scraper?
   3: Work in new Scraper with Snowman
   ```
-  🌱 I’m currently looking into Typescript React
+  🌱 I’m currently looking into Python (Django, Flask) APIs and NodeJS Express APIs
+  
+  
   📫 How to reach me: edvinlin@gmail.com
 
