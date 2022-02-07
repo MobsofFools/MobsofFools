@@ -3,7 +3,7 @@
   1. E-commerce App (Next.js, Typescript) Finish existing with Firestore OR 
       DB options (Learn DynamoDB? Cloud Firestore or use PostgreSQL)
   2. Finish up Resume/Cover Letter scraper?
-  3: Work in new Scraper with Snowman
+  3. tbd
   ```
   🌱 I’m currently looking into Python (Django, Flask) APIs and NodeJS Express APIs
   
